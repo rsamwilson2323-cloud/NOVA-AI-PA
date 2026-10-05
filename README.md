@@ -1,4 +1,4 @@
-# Nova-AI — AI Voice Assistant with Holographic Interface
+# NOVA-AI-PA — AI Voice Assistant with Holographic Interface
 
 A real-time, voice-to-voice holographic AI companion desktop assistant built on the **Google Gemini Live API**. Nova-AI combines a holographic video character, persistent memory, a reminder system, a full desktop automation agent, and an in-app browser — all running locally with a 3-process architecture.
 
